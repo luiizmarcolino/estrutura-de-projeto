@@ -1,0 +1,5 @@
+@import './componentes.css';
+@import 'fontes.css';
+@import './normalize.css';
+@import './variaveis.css';
+@import '../pages/index/index.css';
